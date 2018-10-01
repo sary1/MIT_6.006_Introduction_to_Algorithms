@@ -10,7 +10,3 @@ def peak(lst):
             return lst[i]
         
 print("The first peak of the list is: " + str(peak(lst)))
-
-
-# A function that uses a Divide and conquer method to find a peak
-# The worst case time complexity of this method would be O(log n).
